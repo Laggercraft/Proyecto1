@@ -1,0 +1,26 @@
+* {
+  font-size: 17px;
+}
+header {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #252f38;
+  /* background-image: url(../img/BackgroundAnime.png); */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  /* margin: 0 auto;
+      padding: 0%;
+      display: flex;
+      overflow-x: hidden; */
+  color: aliceblue;
+}
+
+.info-anime {
+  color: aliceblue;
+  background-color: #323436;
+}
