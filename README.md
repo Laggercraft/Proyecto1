@@ -2,7 +2,7 @@
  es una continuacion al proyecto anterior
 Integrantes : Diego Silva y Francisco Arriagada
 
-URL: https://github.com/Laggercraft/Proyecto.git
+URL: https://[github.com/Laggercraft/Proyecto1.git](https://github.com/Laggercraft/Proyecto1)
 
 Para su funcionamiento sea correcto a la hora de descargar, tendran que descargar el .rar que degare el link directo hacia mediafire y al extrearlo tendran que llevar las dos carpetas dentro de la carpeta Poryecto y con eso funcionara correctamente.
 
